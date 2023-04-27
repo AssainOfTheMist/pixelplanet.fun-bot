@@ -1,0 +1,3 @@
+# pixelplanet.fun-bot
+
+Скоро
